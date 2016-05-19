@@ -1,4 +1,4 @@
---Copyright 2012 Eric Mehl (eric@emdesignviz.com)
+--Copyright 2012 Eric Mehl (eric@thinkhypothetical.com)
 --Version: 1.0 
 --History:
 --2012-08-06 | v1 | initial release | Eric Mehl
