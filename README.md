@@ -15,6 +15,7 @@ There are a few different ways to run the script. In true Adobe fashion, none ar
 2. Run the script using one of the methods described in Installation
 3. For each output format for each file you will be given a crop window for formats that enforce the aspect ratio. Move the crop window as you like and press enter.
 4. After each crop, the script will save a properly sized JPG file to the same location as the original file, with a suffix added such as "\_instagram" to indicate which format it is intended.
-5. When the script is finished, it will restore your file to it's state just before running the script.
-6. You're done! Post the images and use the extra time you saved by not manually resizing and renaming files to have a nice cup of tea.
+5. Note that to keep the images from being blurry the script will not enlarge images.
+6. When the script is finished, it will restore your file to it's state just before running the script.
+7. You're done! Post the images and use the extra time you saved by not manually resizing and renaming files to have a nice cup of tea.
 **It is recommended that you save your file before running the script to avoid potentially losing changes made since your last save if the script fails**
